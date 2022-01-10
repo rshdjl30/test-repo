@@ -1,0 +1,35 @@
+.link   {
+    
+}
+
+
+.finding-button {
+
+}
+
+.findMe-select {
+  min-height: 80px;
+  border: none;
+  min-width: 1000px;
+  overflow: hidden;
+  flex-wrap: wrap;
+}
+.findMe-select::-moz-focus-inner {
+  border: 0;
+}
+.findMe-select:focus {
+  outline: none;
+}
+
+.findMe-option-thicc {
+  max-width: 300px;
+  font-size: 1em;
+  padding: 30px 10px;
+  text-align: center;
+  margin-right: 40px;
+  display: inline-flex;
+  cursor: pointer;
+  border:rgb(0, 0, 0) solid 1px;
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+}
